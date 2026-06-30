@@ -32,6 +32,7 @@ This project is a practical case study in **recognizing the limits of spreadshee
 
 ## Repository Contents
 
+```text
 ├── index.html # Full project documentation site (live via GitHub Pages)
 ├── Hospital_DBMS.accdb # Final relational database — 5 normalized tables, enforced relationships, and SQL queries
 ├── Final_Hospital_Patients_record_management.xlsx # Original Excel attempt — formulas preserved as-is for reference
@@ -42,7 +43,7 @@ This project is a practical case study in **recognizing the limits of spreadshee
 ├── Formula for fetching patients total amount...jpeg # The broken "Total Amount" rollup formula
 ├── Microsoft Access Relationships between tables.jpeg # Actual Access Relationships window (ERD)
 └── README.md # You are here
-
+```
 | File | Purpose |
 |---|---|
 | `index.html` | The complete case study — problem framing, Excel formula breakdown (with annotated formula-bar screenshots), Access schema, ERD, comparison table, and SQL queries. Deployed via GitHub Pages. |
